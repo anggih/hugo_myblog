@@ -1,0 +1,32 @@
+baseURL = "http://anggih.github.io/"
+languageCode = "en-us"
+title = "Hugo Blog"
+theme = "dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  author = "Author"
+  motto = "AM"
+  # description = ""
+  # avatar = ""
+  
+  # email = ""
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2016
+  aboutHeader = "AboutMe"
+
+  paginate = 4
+
+  # favicon = "/favicon.ico"
+
